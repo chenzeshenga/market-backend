@@ -1,0 +1,56 @@
+{
+	"code": 0,
+	"msg": null,
+	"data": [
+		{
+			"id": 25,
+			"name": "宝宝奶粉",
+			"slogan": "",
+			"smallpic": "",
+			"bigpic": "",
+			"typeid": 1,
+			"rid": 13,
+			"parentdesc": "宝宝奶粉"
+		},
+		{
+			"id": 26,
+			"name": "纸尿裤",
+			"slogan": "",
+			"smallpic": "",
+			"bigpic": "",
+			"typeid": 2,
+			"rid": 14,
+			"parentdesc": "纸尿裤"
+		},
+		{
+			"id": 27,
+			"name": "辅食营养",
+			"slogan": "",
+			"smallpic": "",
+			"bigpic": "",
+			"typeid": 3,
+			"rid": 15,
+			"parentdesc": "辅食营养"
+		},
+		{
+			"id": 28,
+			"name": "母婴专区",
+			"slogan": "",
+			"smallpic": "",
+			"bigpic": "",
+			"typeid": 4,
+			"rid": 16,
+			"parentdesc": "母婴专区"
+		},
+		{
+			"id": 29,
+			"name": "护肤美体",
+			"slogan": "",
+			"smallpic": "",
+			"bigpic": "",
+			"typeid": 5,
+			"rid": 17,
+			"parentdesc": "护肤美体"
+		}
+	]
+}
