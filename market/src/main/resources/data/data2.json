@@ -1,1911 +1,411 @@
-[
-	{
-		"id": 1,
-		"tree": {
-			"id": 1,
-			"desc": "宝宝奶粉",
-			"desc2": null,
-			"level": "level1",
-			"logo": null,
-			"popular": null,
-			"nodes": [
-				{
-					"id": 1,
-					"tree": {
-						"id": 1,
-						"desc": "牛奶粉",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89%2F%E7%89%9B%E5%A5%B6%E7%B2%89.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 157,
-								"tree": {
-									"id": 157,
-									"desc": null,
-									"desc2": "a2 PLATINUM",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89%2Fa2.jpg",
-									"popular": 157,
-									"nodes": null
-								}
-							},
-							{
-								"id": 7,
-								"tree": {
-									"id": 7,
-									"desc": "德国爱他美",
-									"desc2": "Aptamil",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89%2F%E7%88%B1%E4%BB%96%E7%BE%8E.jpg",
-									"popular": 7,
-									"nodes": null
-								}
-							},
-							{
-								"id": 161,
-								"tree": {
-									"id": 161,
-									"desc": "爱他美白金",
-									"desc2": "Aptamil pro",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89/%E7%99%BD%E9%87%91%E5%A5%B6%E7%B2%89-1.jpg",
-									"popular": 161,
-									"nodes": null
-								}
-							},
-							{
-								"id": 158,
-								"tree": {
-									"id": 158,
-									"desc": "澳洲爱他美",
-									"desc2": "Aptamil",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89%2F%E6%BE%B3%E6%B4%B2%E7%88%B1%E4%BB%96%E7%BE%8E.jpg",
-									"popular": 158,
-									"nodes": null
-								}
-							},
-							{
-								"id": 8,
-								"tree": {
-									"id": 8,
-									"desc": "荷兰牛栏",
-									"desc2": "Nutrilon",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89%2F%E7%89%9B%E6%A0%8F.jpg",
-									"popular": 8,
-									"nodes": null
-								}
-							},
-							{
-								"id": 166,
-								"tree": {
-									"id": 166,
-									"desc": "英国牛栏",
-									"desc2": "Cow&Cate",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89/%E8%8B%B1%E5%9B%BD%E7%89%9B%E6%A0%8Flogo.jpeg",
-									"popular": 166,
-									"nodes": null
-								}
-							},
-							{
-								"id": 9,
-								"tree": {
-									"id": 9,
-									"desc": "德国喜宝有机",
-									"desc2": "HiPP",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89%2F%E5%96%9C%E5%AE%9D.jpg",
-									"popular": 9,
-									"nodes": null
-								}
-							},
-							{
-								"id": 11,
-								"tree": {
-									"id": 11,
-									"desc": "德国喜宝益生菌",
-									"desc2": "HiPP",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89%2F%E5%96%9C%E5%AE%9D.jpg",
-									"popular": 11,
-									"nodes": null
-								}
-							},
-							{
-								"id": 13,
-								"tree": {
-									"id": 13,
-									"desc": "澳洲贝拉米",
-									"desc2": "BELLMAY'S",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89%2F%E8%B4%9D%E6%8B%89%E7%B1%B3.jpg",
-									"popular": 13,
-									"nodes": null
-								}
-							},
-							{
-								"id": 14,
-								"tree": {
-									"id": 14,
-									"desc": "荷兰美素",
-									"desc2": "Hero Baby",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89%2F%E8%8D%B7%E5%85%B0%E7%BE%8E%E7%B4%A0.jpg",
-									"popular": 14,
-									"nodes": null
-								}
-							}
-						]
-					}
-				}
-			]
+{
+	"code": 0,
+	"msg": null,
+	"data": [
+		{
+			"id": 5034032366,
+			"title": "德国原装进口喜宝Hipp有机奶粉 Pre段（0-3个月）600g",
+			"brand": 9,
+			"goodstype": 1,
+			"keywords": null,
+			"format": null,
+			"marketprice": 199.0,
+			"ourprice": 111.0,
+			"tax": 0.1,
+			"purchaselimit": null,
+			"prodplace": 18,
+			"goodspics": "http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA%E6%96%B0%E7%94%9F%E5%84%BFpre%E6%AE%B5%EF%BC%880~6%E4%B8%AA%E6%9C%88600g%EF%BC%89_main0#http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA%E6%96%B0%E7%94%9F%E5%84%BFpre%E6%AE%B5%EF%BC%880~6%E4%B8%AA%E6%9C%88600g%EF%BC%89_main1#http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA%E6%96%B0%E7%94%9F%E5%84%BFpre%E6%AE%B5%EF%BC%880~6%E4%B8%AA%E6%9C%88600g%EF%BC%89_main2#",
+			"prodparams": "|||商品名称|||德国喜宝HIPP有机奶粉 Pre段0-3个月 600g|||品牌|||喜宝HIPP|||分类|||pre|||适用年龄|||0-3个月|||规格|||600g|||产地|||德国|||保质期|||18个月|||",
+			"detailinfo": "<img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/1c/ab/1cabbe2910f73d1869a1b02d64a06b1d.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/1c/ab/1cabbe2910f73d1869a1b02d64a06b1d.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/2e/df/2edf61783fab75add56e06f1e96425c8.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/2e/df/2edf61783fab75add56e06f1e96425c8.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/4c/c4/4cc49df6f9c3c05466dc3b797a824fff.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/4c/c4/4cc49df6f9c3c05466dc3b797a824fff.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/35/f0/35f035e6c541c896e6c3276e31d4bcf1.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/35/f0/35f035e6c541c896e6c3276e31d4bcf1.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/e0/e0/e0e0cd62efc00960c7cc843647a1b851.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/e0/e0/e0e0cd62efc00960c7cc843647a1b851.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/53/a2/53a2fb87c1f10cd473280cc7af49d2c8.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/53/a2/53a2fb87c1f10cd473280cc7af49d2c8.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/d8/17/d817260c97c60ccac9853eb84bbb227c.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/d8/17/d817260c97c60ccac9853eb84bbb227c.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/b7/97/b797fb37a4243860568e6184c0d3da69.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/b7/97/b797fb37a4243860568e6184c0d3da69.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/5c/4b/5c4b40e396d11e194b6902b071157632.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/5c/4b/5c4b40e396d11e194b6902b071157632.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/80/21/80212df76f06235c6e36b7b09c0b32e1.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/80/21/80212df76f06235c6e36b7b09c0b32e1.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/6f/f5/6ff505129ea7c370ed8a7bac771b75a8.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/6f/f5/6ff505129ea7c370ed8a7bac771b75a8.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/50/84/50842f5bdcca51d487eec02b2bf1674f.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/50/84/50842f5bdcca51d487eec02b2bf1674f.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/fa/b5/fab584ba68b4b36288ed8d0512678914.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/fa/b5/fab584ba68b4b36288ed8d0512678914.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/bf/b1/bfb12fad1744125facc4fac2b01a0579.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/bf/b1/bfb12fad1744125facc4fac2b01a0579.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/e2/32/e2320721a7526ad54885e1630339ccb6.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/e2/32/e2320721a7526ad54885e1630339ccb6.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><div><br></div>",
+			"reason": "德国畅销奶粉品牌 BIO有机认证 连续五年获得mother&baby最佳婴儿食品系列金奖 喜宝拥有自己的优质农场 所有奶牛都有自己的编码 在天然农场里放养200天以上 富含LCP长链不饱和脂肪酸，比DHA更稳定，促进宝宝神经发育 锌促进乳牙生长 叶黄素保护眼睛 乳糖调节肠胃",
+			"status": 2,
+			"createtime": 1442219580000,
+			"updatetime": 1513658727000,
+			"createuser": null,
+			"updateuser": null,
+			"shelftime": 1508214529000,
+			"itemcode": "nfge019",
+			"supcode": "EG",
+			"typeid": null,
+			"englishname": "HiPP",
+			"chinesename": "德国喜宝有机",
+			"subdesc": "牛奶粉",
+			"parentdesc": "宝宝奶粉",
+			"country": "德国",
+			"waresname": null,
+			"wareid": null,
+			"bigname": "跨境1号仓",
+			"bigid": null,
+			"days": 5,
+			"choicepic": null,
+			"supname": null,
+			"qty": null,
+			"erpqty": 151,
+			"lockqty": 0,
+			"recommand": null,
+			"bigtype": "1",
+			"onnew": null,
+			"guideroyalty": null
+		},
+		{
+			"id": 5034032369,
+			"title": "德国原装进口喜宝Hipp有机奶粉 1段（3-6个月）600g",
+			"brand": 9,
+			"goodstype": 1,
+			"keywords": null,
+			"format": null,
+			"marketprice": 199.0,
+			"ourprice": 111.0,
+			"tax": 0.1,
+			"purchaselimit": null,
+			"prodplace": 18,
+			"goodspics": "http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_main0#http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_main1#http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_main2#",
+			"prodparams": "|||商品名称|||德国喜宝HIPP有机奶粉 1段3-6个月 600g|||品牌|||德国原装HIPP|||分类|||一段|||保质期|||15个月|||容量|||600g|||适用年龄|||3-6个月|||产地|||德国|||包装类型|||盒装|||保质期|||18个月|||",
+			"detailinfo": "<img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail0\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail1\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail2\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail3\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail4\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail5\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail6\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail7\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail8\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail9\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail10\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail11\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail12\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail13\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%891%E6%AE%B50~6M600g_detail14\" alt=\"\">",
+			"reason": "德国畅销奶粉品牌 BIO有机认证 连续五年获得mother&baby最佳婴儿食品系列金奖 喜宝拥有自己的优质农场 所有奶牛都有自己的编码 在天然农场里放养200天以上 富含LCP长链不饱和脂肪酸，比DHA更稳定，促进宝宝神经发育 锌促进乳牙生长 叶黄素保护眼睛 乳糖调节肠胃",
+			"status": 2,
+			"createtime": 1446539937000,
+			"updatetime": 1513658727000,
+			"createuser": null,
+			"updateuser": null,
+			"shelftime": 1511231356000,
+			"itemcode": "nfge020",
+			"supcode": "EG",
+			"typeid": null,
+			"englishname": "HiPP",
+			"chinesename": "德国喜宝有机",
+			"subdesc": "牛奶粉",
+			"parentdesc": "宝宝奶粉",
+			"country": "德国",
+			"waresname": null,
+			"wareid": null,
+			"bigname": "跨境1号仓",
+			"bigid": null,
+			"days": 5,
+			"choicepic": null,
+			"supname": null,
+			"qty": null,
+			"erpqty": 106,
+			"lockqty": 0,
+			"recommand": null,
+			"bigtype": "1",
+			"onnew": null,
+			"guideroyalty": null
+		},
+		{
+			"id": 5034032371,
+			"title": "德国原装进口喜宝Hipp有机奶粉 2段（6-10个月）800g",
+			"brand": 9,
+			"goodstype": 1,
+			"keywords": null,
+			"format": null,
+			"marketprice": 199.0,
+			"ourprice": 161.0,
+			"tax": 0.1,
+			"purchaselimit": null,
+			"prodplace": 18,
+			"goodspics": "http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_main0#http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_main1#http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_main2#",
+			"prodparams": "|||商品名称|||德国喜宝HIPP有机奶粉 2段6-10个月 800g|||品牌|||喜宝HIPP|||分类|||二段|||适用年龄|||6-10个月|||规格|||800g|||产地|||德国|||包装类型|||盒装|||保质期|||18个月|||",
+			"detailinfo": "<img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail0\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail1\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail2\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail3\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail4\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail5\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail6\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail7\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail8\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail9\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail10\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail11\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail12\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail13\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%892%E6%AE%B56~10M800g_detail14\" alt=\"\">",
+			"reason": "德国畅销奶粉品牌 BIO有机认证 连续五年获得mother&baby最佳婴儿食品系列金奖 喜宝拥有自己的优质农场 所有奶牛都有自己的编码 在天然农场里放养200天以上 富含LCP长链不饱和脂肪酸，比DHA更稳定，促进宝宝神经发育 锌促进乳牙生长 叶黄素保护眼睛 乳糖调节肠胃",
+			"status": 2,
+			"createtime": 1446175783000,
+			"updatetime": 1517458960000,
+			"createuser": null,
+			"updateuser": null,
+			"shelftime": 1516645891000,
+			"itemcode": "nfge021",
+			"supcode": "EG",
+			"typeid": null,
+			"englishname": "HiPP",
+			"chinesename": "德国喜宝有机",
+			"subdesc": "牛奶粉",
+			"parentdesc": "宝宝奶粉",
+			"country": "德国",
+			"waresname": null,
+			"wareid": null,
+			"bigname": "跨境1号仓",
+			"bigid": null,
+			"days": 5,
+			"choicepic": null,
+			"supname": null,
+			"qty": null,
+			"erpqty": 105,
+			"lockqty": 0,
+			"recommand": null,
+			"bigtype": "1",
+			"onnew": null,
+			"guideroyalty": null
+		},
+		{
+			"id": 5034032373,
+			"title": "德国原装进口喜宝Hipp有机奶粉 3段（10-12个月）800g",
+			"brand": 9,
+			"goodstype": 1,
+			"keywords": null,
+			"format": null,
+			"marketprice": 199.0,
+			"ourprice": 155.0,
+			"tax": 0.1,
+			"purchaselimit": null,
+			"prodplace": 18,
+			"goodspics": "http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/2015_10_30_1446184087528#",
+			"prodparams": "|||商品名称|||德国喜宝HIPP有机奶粉 3段10-12个月 800g|||品牌|||喜宝HIPP|||分类|||三段|||适用年龄|||10-12个月|||规格|||800g|||产地|||德国|||保质期|||18个月|||",
+			"detailinfo": "<img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail0\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail1\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail2\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail3\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail4\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail5\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail6\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail7\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail8\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail9\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail10\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail11\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail12\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail13\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail14\" alt=\"\">",
+			"reason": "德国畅销奶粉品牌 BIO有机认证 连续五年获得mother&baby最佳婴儿食品系列金奖 喜宝拥有自己的优质农场 所有奶牛都有自己的编码 在天然农场里放养200天以上 富含LCP长链不饱和脂肪酸，比DHA更稳定，促进宝宝神经发育 锌促进乳牙生长 叶黄素保护眼睛 乳糖调节肠胃",
+			"status": 2,
+			"createtime": 1446175874000,
+			"updatetime": 1516852358000,
+			"createuser": null,
+			"updateuser": null,
+			"shelftime": 1507884704000,
+			"itemcode": "nfge022",
+			"supcode": "EG",
+			"typeid": null,
+			"englishname": "HiPP",
+			"chinesename": "德国喜宝有机",
+			"subdesc": "牛奶粉",
+			"parentdesc": "宝宝奶粉",
+			"country": "德国",
+			"waresname": null,
+			"wareid": null,
+			"bigname": "跨境1号仓",
+			"bigid": null,
+			"days": 5,
+			"choicepic": null,
+			"supname": null,
+			"qty": null,
+			"erpqty": 138,
+			"lockqty": 0,
+			"recommand": null,
+			"bigtype": "1",
+			"onnew": null,
+			"guideroyalty": null
+		},
+		{
+			"id": 5034032374,
+			"title": "德国原装进口喜宝Hipp有机奶粉 12+段（1岁以上）800g",
+			"brand": 9,
+			"goodstype": 1,
+			"keywords": null,
+			"format": null,
+			"marketprice": 199.0,
+			"ourprice": 132.0,
+			"tax": 0.1,
+			"purchaselimit": null,
+			"prodplace": 18,
+			"goodspics": "http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89_main0#http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89_main1#http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89_main2#http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89_main3#",
+			"prodparams": "|||商品名称|||德国喜宝HIPP有机奶粉 1+段1岁以上 800g|||品牌|||喜宝HIPP|||分类|||1岁+|||适用年龄|||1岁以上|||规格|||800g|||产地|||德国|||保质期|||18个月|||",
+			"detailinfo": "<img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89_detail1\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89_detail3\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89_detail4\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89_detail5\" alt=\"\">",
+			"reason": "德国畅销奶粉品牌 BIO有机认证 连续五年获得mother&baby最佳婴儿食品系列金奖 喜宝拥有自己的优质农场 所有奶牛都有自己的编码 在天然农场里放养200天以上 富含LCP长链不饱和脂肪酸，比DHA更稳定，促进宝宝神经发育 锌促进乳牙生长 叶黄素保护眼睛 乳糖调节肠胃",
+			"status": 2,
+			"createtime": 1442219951000,
+			"updatetime": 1513658727000,
+			"createuser": null,
+			"updateuser": null,
+			"shelftime": 1496377091000,
+			"itemcode": "nfge023",
+			"supcode": "EG",
+			"typeid": null,
+			"englishname": "HiPP",
+			"chinesename": "德国喜宝有机",
+			"subdesc": "牛奶粉",
+			"parentdesc": "宝宝奶粉",
+			"country": "德国",
+			"waresname": null,
+			"wareid": null,
+			"bigname": "跨境1号仓",
+			"bigid": null,
+			"days": 5,
+			"choicepic": null,
+			"supname": null,
+			"qty": null,
+			"erpqty": 138,
+			"lockqty": 0,
+			"recommand": null,
+			"bigtype": "1",
+			"onnew": null,
+			"guideroyalty": null
+		},
+		{
+			"id": 5315469106,
+			"title": "德国原装进口喜宝Hipp有机奶粉 Pre段（0-3个月）600g【2盒】",
+			"brand": 9,
+			"goodstype": 1,
+			"keywords": null,
+			"format": null,
+			"marketprice": 376.0,
+			"ourprice": 205.0,
+			"tax": 0.1,
+			"purchaselimit": null,
+			"prodplace": 18,
+			"goodspics": "http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/2015_9_16_1442394119120#",
+			"prodparams": "|||商品名称|||德国喜宝HIPP有机奶粉 Pre段0-3个月 600g*2|||品牌|||喜宝HIPP|||分类|||pre|||适用年龄|||0-3个月|||规格|||600g *2|||产地|||德国|||保质期|||18个月|||",
+			"detailinfo": "<img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/1c/ab/1cabbe2910f73d1869a1b02d64a06b1d.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/1c/ab/1cabbe2910f73d1869a1b02d64a06b1d.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/2e/df/2edf61783fab75add56e06f1e96425c8.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/2e/df/2edf61783fab75add56e06f1e96425c8.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/4c/c4/4cc49df6f9c3c05466dc3b797a824fff.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/4c/c4/4cc49df6f9c3c05466dc3b797a824fff.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/35/f0/35f035e6c541c896e6c3276e31d4bcf1.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/35/f0/35f035e6c541c896e6c3276e31d4bcf1.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/e0/e0/e0e0cd62efc00960c7cc843647a1b851.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/e0/e0/e0e0cd62efc00960c7cc843647a1b851.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/53/a2/53a2fb87c1f10cd473280cc7af49d2c8.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/53/a2/53a2fb87c1f10cd473280cc7af49d2c8.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/d8/17/d817260c97c60ccac9853eb84bbb227c.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/d8/17/d817260c97c60ccac9853eb84bbb227c.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/b7/97/b797fb37a4243860568e6184c0d3da69.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/b7/97/b797fb37a4243860568e6184c0d3da69.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/5c/4b/5c4b40e396d11e194b6902b071157632.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/5c/4b/5c4b40e396d11e194b6902b071157632.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/80/21/80212df76f06235c6e36b7b09c0b32e1.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/80/21/80212df76f06235c6e36b7b09c0b32e1.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/6f/f5/6ff505129ea7c370ed8a7bac771b75a8.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/6f/f5/6ff505129ea7c370ed8a7bac771b75a8.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/50/84/50842f5bdcca51d487eec02b2bf1674f.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/50/84/50842f5bdcca51d487eec02b2bf1674f.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/fa/b5/fab584ba68b4b36288ed8d0512678914.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/fa/b5/fab584ba68b4b36288ed8d0512678914.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/bf/b1/bfb12fad1744125facc4fac2b01a0579.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/bf/b1/bfb12fad1744125facc4fac2b01a0579.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><img data-src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/e2/32/e2320721a7526ad54885e1630339ccb6.jpg\" src=\"http://img02.miyabaobei.com/d1/p2/2015/10/28/e2/32/e2320721a7526ad54885e1630339ccb6.jpg\" class=\"lazyload\" width=\"750px\" alt=\"loading\" style=\"margin: 0px; padding: 0px; vertical-align: top; display: block; color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; background-image: url(&quot;/resources/images/ajax-loader.gif&quot;); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 50% 50%; background-repeat: no-repeat;\"><div><br></div>",
+			"reason": "德国畅销奶粉品牌 BIO有机认证 连续五年获得mother&baby最佳婴儿食品系列金奖 喜宝拥有自己的优质农场 所有奶牛都有自己的编码 在天然农场里放养200天以上 富含LCP长链不饱和脂肪酸，比DHA更稳定，促进宝宝神经发育 锌促进乳牙生长 叶黄素保护眼睛 乳糖调节肠胃 ",
+			"status": 2,
+			"createtime": 1442393536000,
+			"updatetime": 1523622373000,
+			"createuser": null,
+			"updateuser": null,
+			"shelftime": 1523622373000,
+			"itemcode": "nfge100",
+			"supcode": "EG",
+			"typeid": null,
+			"englishname": "HiPP",
+			"chinesename": "德国喜宝有机",
+			"subdesc": "牛奶粉",
+			"parentdesc": "宝宝奶粉",
+			"country": "德国",
+			"waresname": null,
+			"wareid": null,
+			"bigname": "跨境1号仓",
+			"bigid": null,
+			"days": 5,
+			"choicepic": null,
+			"supname": null,
+			"qty": null,
+			"erpqty": 47,
+			"lockqty": 0,
+			"recommand": null,
+			"bigtype": "1",
+			"onnew": null,
+			"guideroyalty": null
+		},
+		{
+			"id": 5316513926,
+			"title": "德国原装进口喜宝Hipp有机奶粉 1段（3-6个月）600g【2盒】",
+			"brand": 9,
+			"goodstype": 1,
+			"keywords": null,
+			"format": null,
+			"marketprice": 298.0,
+			"ourprice": 205.0,
+			"tax": 0.1,
+			"purchaselimit": null,
+			"prodplace": 18,
+			"goodspics": "http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/2015_9_16_1442394214165#",
+			"prodparams": "|||商品名称|||德国喜宝HIPP有机奶粉 1段3-6个月 600g *2|||品牌|||喜宝HIPP|||分类|||1段|||适用年龄|||0-6个月|||规格|||600g *2|||产地|||德国|||保质期|||18个月|||",
+			"detailinfo": "<span style=\"font-size:16px;\"><strong>新老包装随机发</strong></span><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%E6%AE%B5%EF%BC%880~6%E4%B8%AA%E6%9C%88600g%EF%BC%89%2A2_detail0\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%E6%AE%B5%EF%BC%880~6%E4%B8%AA%E6%9C%88600g%EF%BC%89%2A2_detail3\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%E6%AE%B5%EF%BC%880~6%E4%B8%AA%E6%9C%88600g%EF%BC%89%2A2_detail4\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%E6%AE%B5%EF%BC%880~6%E4%B8%AA%E6%9C%88600g%EF%BC%89%2A2_detail5\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%E6%AE%B5%EF%BC%880~6%E4%B8%AA%E6%9C%88600g%EF%BC%89%2A2_detail6\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%E6%AE%B5%EF%BC%880~6%E4%B8%AA%E6%9C%88600g%EF%BC%89%2A2_detail7\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%E6%AE%B5%EF%BC%880~6%E4%B8%AA%E6%9C%88600g%EF%BC%89%2A2_detail8\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%E6%AE%B5%EF%BC%880~6%E4%B8%AA%E6%9C%88600g%EF%BC%89%2A2_detail9\" alt=\"\">",
+			"reason": "德国畅销奶粉品牌 BIO有机认证 连续五年获得mother&baby最佳婴儿食品系列金奖 喜宝拥有自己的优质农场 所有奶牛都有自己的编码 在天然农场里放养200天以上 富含LCP长链不饱和脂肪酸，比DHA更稳定，促进宝宝神经发育 锌促进乳牙生长 叶黄素保护眼睛 乳糖调节肠胃 ",
+			"status": 2,
+			"createtime": 1442393647000,
+			"updatetime": 1513658727000,
+			"createuser": null,
+			"updateuser": null,
+			"shelftime": 1511231380000,
+			"itemcode": "nfge101",
+			"supcode": "EG",
+			"typeid": null,
+			"englishname": "HiPP",
+			"chinesename": "德国喜宝有机",
+			"subdesc": "牛奶粉",
+			"parentdesc": "宝宝奶粉",
+			"country": "德国",
+			"waresname": null,
+			"wareid": null,
+			"bigname": "跨境1号仓",
+			"bigid": null,
+			"days": 5,
+			"choicepic": null,
+			"supname": null,
+			"qty": null,
+			"erpqty": 108,
+			"lockqty": 0,
+			"recommand": null,
+			"bigtype": "1",
+			"onnew": null,
+			"guideroyalty": null
+		},
+		{
+			"id": 5316513934,
+			"title": "德国原装进口喜宝Hipp有机奶粉 3段（10-12个月）800g【2盒】",
+			"brand": 9,
+			"goodstype": 1,
+			"keywords": null,
+			"format": null,
+			"marketprice": 398.0,
+			"ourprice": 298.0,
+			"tax": 0.1,
+			"purchaselimit": null,
+			"prodplace": 18,
+			"goodspics": "http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/2015_10_30_1446190092987#",
+			"prodparams": "|||商品名称|||德国喜宝HIPP有机奶粉 3段10-12个月 800g *2|||品牌|||喜宝HIPP|||分类|||3段|||适用年龄|||10-12个月|||规格|||800g *2|||产地|||德国|||保质期|||18个月|||",
+			"detailinfo": "<img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail0\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail1\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail2\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail3\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail4\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail5\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail6\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail7\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail8\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail9\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail10\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail11\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail12\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail13\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPPBio%E6%9C%89%E6%9C%BA%E5%A5%B6%E7%B2%893%E6%AE%B510~12M800g%2A2%E7%9B%92_detail14\" alt=\"\">",
+			"reason": "德国畅销奶粉品牌 BIO有机认证 连续五年获得mother&baby最佳婴儿食品系列金奖 喜宝拥有自己的优质农场 所有奶牛都有自己的编码 在天然农场里放养200天以上 富含LCP长链不饱和脂肪酸，比DHA更稳定，促进宝宝神经发育 锌促进乳牙生长 叶黄素保护眼睛 乳糖调节肠胃 ",
+			"status": 2,
+			"createtime": 1446176252000,
+			"updatetime": 1516852358000,
+			"createuser": null,
+			"updateuser": null,
+			"shelftime": 1472795343000,
+			"itemcode": "nfge103",
+			"supcode": "EG",
+			"typeid": null,
+			"englishname": "HiPP",
+			"chinesename": "德国喜宝有机",
+			"subdesc": "牛奶粉",
+			"parentdesc": "宝宝奶粉",
+			"country": "德国",
+			"waresname": null,
+			"wareid": null,
+			"bigname": "跨境1号仓",
+			"bigid": null,
+			"days": 5,
+			"choicepic": null,
+			"supname": null,
+			"qty": null,
+			"erpqty": 75,
+			"lockqty": 0,
+			"recommand": null,
+			"bigtype": "1",
+			"onnew": null,
+			"guideroyalty": null
+		},
+		{
+			"id": 5316513940,
+			"title": "德国原装进口喜宝Hipp有机奶粉 12+段（1岁以上）800g【2盒】",
+			"brand": 9,
+			"goodstype": 1,
+			"keywords": null,
+			"format": null,
+			"marketprice": 398.0,
+			"ourprice": 248.0,
+			"tax": 0.1,
+			"purchaselimit": null,
+			"prodplace": 18,
+			"goodspics": "http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/2015_9_16_1442394373653#",
+			"prodparams": "|||商品名称|||德国喜宝HIPP有机奶粉 1+段1岁以上 800g *2|||品牌|||德国原装 HIPP|||分类|||4段|||适用年龄|||1岁以上|||规格|||800g *2|||产地|||德国|||保质期|||18个月|||",
+			"detailinfo": "<img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89%2A2%E9%99%90%E5%AE%9A%E6%9C%9F2016.04.26_detail0\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89%2A2%E9%99%90%E5%AE%9A%E6%9C%9F2016.04.26_detail1\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89%2A2%E9%99%90%E5%AE%9A%E6%9C%9F2016.04.26_detail2\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89%2A2%E9%99%90%E5%AE%9A%E6%9C%9F2016.04.26_detail3\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89%2A2%E9%99%90%E5%AE%9A%E6%9C%9F2016.04.26_detail4\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89%2A2%E9%99%90%E5%AE%9A%E6%9C%9F2016.04.26_detail5\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89%2A2%E9%99%90%E5%AE%9A%E6%9C%9F2016.04.26_detail6\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89%2A2%E9%99%90%E5%AE%9A%E6%9C%9F2016.04.26_detail7\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89%2A2%E9%99%90%E5%AE%9A%E6%9C%9F2016.04.26_detail8\" alt=\"\"><img src=\"http://image.huanqiuxiaozhen.com/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89_%E7%89%9B%E5%A5%B6%E7%B2%89/%E5%BE%B7%E5%9B%BD%E5%8E%9F%E8%A3%85HIPP%E3%80%90%E5%85%8D%E7%A8%8E%E5%BA%97%E3%80%91%E5%A5%B6%E7%B2%89Bio%E6%9C%89%E6%9C%BA1%2B%E6%AE%B5%EF%BC%881%E5%B2%81%E4%BB%A5%E4%B8%8A800g%EF%BC%89%2A2%E9%99%90%E5%AE%9A%E6%9C%9F2016.04.26_detail9\" alt=\"\">",
+			"reason": "德国畅销奶粉品牌 BIO有机认证 连续五年获得mother&baby最佳婴儿食品系列金奖 喜宝拥有自己的优质农场 所有奶牛都有自己的编码 在天然农场里放养200天以上 富含LCP长链不饱和脂肪酸，比DHA更稳定，促进宝宝神经发育 锌促进乳牙生长 叶黄素保护眼睛 乳糖调节肠胃 ",
+			"status": 2,
+			"createtime": 1442393786000,
+			"updatetime": 1513658727000,
+			"createuser": null,
+			"updateuser": null,
+			"shelftime": 1496377114000,
+			"itemcode": "nfge104",
+			"supcode": "EG",
+			"typeid": null,
+			"englishname": "HiPP",
+			"chinesename": "德国喜宝有机",
+			"subdesc": "牛奶粉",
+			"parentdesc": "宝宝奶粉",
+			"country": "德国",
+			"waresname": null,
+			"wareid": null,
+			"bigname": "跨境1号仓",
+			"bigid": null,
+			"days": 5,
+			"choicepic": null,
+			"supname": null,
+			"qty": null,
+			"erpqty": 27,
+			"lockqty": 0,
+			"recommand": null,
+			"bigtype": "1",
+			"onnew": null,
+			"guideroyalty": null
 		}
-	},
-	{
-		"id": 2,
-		"tree": {
-			"id": 2,
-			"desc": "纸尿裤",
-			"desc2": null,
-			"level": "level1",
-			"logo": null,
-			"popular": null,
-			"nodes": [
-				{
-					"id": 4,
-					"tree": {
-						"id": 4,
-						"desc": "纸尿裤",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E7%BA%B8%E5%B0%BF%E8%A3%A4%2F%E7%BA%B8%E5%B0%BF%E8%A3%A4.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 16,
-								"tree": {
-									"id": 16,
-									"desc": "花王",
-									"desc2": "Merries",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E7%BA%B8%E5%B0%BF%E8%A3%A4%2F%E8%8A%B1%E7%8E%8B.jpg",
-									"popular": 16,
-									"nodes": null
-								}
-							},
-							{
-								"id": 17,
-								"tree": {
-									"id": 17,
-									"desc": "大王",
-									"desc2": "Goon",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E7%BA%B8%E5%B0%BF%E8%A3%A4%2F%E5%A4%A7%E7%8E%8B.jpg",
-									"popular": 17,
-									"nodes": null
-								}
-							},
-							{
-								"id": 18,
-								"tree": {
-									"id": 18,
-									"desc": "尤妮佳",
-									"desc2": "Moony",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E7%BA%B8%E5%B0%BF%E8%A3%A4%2F%E5%B0%A4%E4%BD%B3%E5%A6%AE.jpg",
-									"popular": 18,
-									"nodes": null
-								}
-							}
-						]
-					}
-				},
-				{
-					"id": 29,
-					"tree": {
-						"id": 29,
-						"desc": "湿巾",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E7%BA%B8%E5%B0%BF%E8%A3%A4%2F%E6%B9%BF%E5%B7%BE.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 49,
-								"tree": {
-									"id": 49,
-									"desc": "贝亲",
-									"desc2": "Pigeon",
-									"level": null,
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E8%B4%9D%E4%BA%B2.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 16,
-								"tree": {
-									"id": 16,
-									"desc": "花王",
-									"desc2": "Merries",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E7%BA%B8%E5%B0%BF%E8%A3%A4%2F%E8%8A%B1%E7%8E%8B.jpg",
-									"popular": 16,
-									"nodes": null
-								}
-							}
-						]
-					}
-				}
-			]
-		}
-	},
-	{
-		"id": 3,
-		"tree": {
-			"id": 3,
-			"desc": "辅食营养",
-			"desc2": null,
-			"level": "level1",
-			"logo": null,
-			"popular": null,
-			"nodes": [
-				{
-					"id": 10,
-					"tree": {
-						"id": 10,
-						"desc": "宝宝营养",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E5%AE%9D%E5%AE%9D%E8%90%A5%E5%85%BB.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 77,
-								"tree": {
-									"id": 77,
-									"desc": "",
-									"desc2": "Ddrops",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 114,
-								"tree": {
-									"id": 114,
-									"desc": "挪帝克",
-									"desc2": "NORDIC NATURALS",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 34,
-								"tree": {
-									"id": 34,
-									"desc": "童年时光",
-									"desc2": "ChildLife",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2FChildLife.jpg",
-									"popular": 34,
-									"nodes": null
-								}
-							},
-							{
-								"id": 35,
-								"tree": {
-									"id": 35,
-									"desc": "",
-									"desc2": "Bio Island",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2FBio-Island-1.jpg",
-									"popular": 35,
-									"nodes": null
-								}
-							}
-						]
-					}
-				}
-			]
-		}
-	},
-	{
-		"id": 4,
-		"tree": {
-			"id": 4,
-			"desc": "母婴专区",
-			"desc2": null,
-			"level": "level1",
-			"logo": null,
-			"popular": null,
-			"nodes": [
-				{
-					"id": 11,
-					"tree": {
-						"id": 11,
-						"desc": "喂养用具",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E5%96%82%E5%85%BB%E7%94%A8%E5%85%B7.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 63,
-								"tree": {
-									"id": 63,
-									"desc": "",
-									"desc2": "NUK",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 52,
-								"tree": {
-									"id": 52,
-									"desc": "啾啾",
-									"desc2": "chuchu",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2Fchuchu.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 60,
-								"tree": {
-									"id": 60,
-									"desc": "",
-									"desc2": "Born free",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2Fbornfree.jpg",
-									"popular": 60,
-									"nodes": null
-								}
-							},
-							{
-								"id": 24,
-								"tree": {
-									"id": 24,
-									"desc": "可么多么",
-									"desc2": "comotomo",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2Fcomotomo.jpg",
-									"popular": 24,
-									"nodes": null
-								}
-							},
-							{
-								"id": 62,
-								"tree": {
-									"id": 62,
-									"desc": "",
-									"desc2": "boon",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2Fboon.jpg",
-									"popular": 62,
-									"nodes": null
-								}
-							},
-							{
-								"id": 27,
-								"tree": {
-									"id": 27,
-									"desc": "膳魔师",
-									"desc2": "THERMOS",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2FTHERMOS.jpg",
-									"popular": 27,
-									"nodes": null
-								}
-							},
-							{
-								"id": 28,
-								"tree": {
-									"id": 28,
-									"desc": "",
-									"desc2": "thinkbaby",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2Fthinkbaby.jpg",
-									"popular": 28,
-									"nodes": null
-								}
-							},
-							{
-								"id": 29,
-								"tree": {
-									"id": 29,
-									"desc": "麦肯齐",
-									"desc2": "munchkin",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2FMunchkin.jpg",
-									"popular": 29,
-									"nodes": null
-								}
-							},
-							{
-								"id": 30,
-								"tree": {
-									"id": 30,
-									"desc": "",
-									"desc2": "Lansinoh",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2Flansionoh.jpg",
-									"popular": 30,
-									"nodes": null
-								}
-							},
-							{
-								"id": 50,
-								"tree": {
-									"id": 50,
-									"desc": "和光堂",
-									"desc2": "WaKoDo",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E5%85%89%E5%90%88%E5%A0%82.jpg",
-									"popular": 50,
-									"nodes": null
-								}
-							}
-						]
-					}
-				},
-				{
-					"id": 9,
-					"tree": {
-						"id": 9,
-						"desc": "宝宝洗护",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E5%AE%9D%E5%AE%9D%E6%B4%97%E6%8A%A4.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 51,
-								"tree": {
-									"id": 51,
-									"desc": "小林制药",
-									"desc2": "KOBAYASHI",
-									"level": null,
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 49,
-								"tree": {
-									"id": 49,
-									"desc": "贝亲",
-									"desc2": "Pigeon",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E8%B4%9D%E4%BA%B2.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 31,
-								"tree": {
-									"id": 31,
-									"desc": "加州宝宝",
-									"desc2": "CALIFORNIA BABY",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E5%8A%A0%E5%B7%9E%E5%AE%9D%E5%AE%9D.jpg",
-									"popular": 31,
-									"nodes": null
-								}
-							},
-							{
-								"id": 32,
-								"tree": {
-									"id": 32,
-									"desc": "艾维诺",
-									"desc2": "Aveeno",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2FAveeno.jpg",
-									"popular": 32,
-									"nodes": null
-								}
-							},
-							{
-								"id": 33,
-								"tree": {
-									"id": 33,
-									"desc": "小蜜蜂",
-									"desc2": "BURT'S BEES",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E5%B0%8F%E8%9C%9C%E8%9C%82.jpg",
-									"popular": 33,
-									"nodes": null
-								}
-							},
-							{
-								"id": 50,
-								"tree": {
-									"id": 50,
-									"desc": "和光堂",
-									"desc2": "WaKoDo",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E5%85%89%E5%90%88%E5%A0%82.jpg",
-									"popular": 50,
-									"nodes": null
-								}
-							}
-						]
-					}
-				},
-				{
-					"id": 12,
-					"tree": {
-						"id": 12,
-						"desc": "宝宝口腔护理",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E5%AE%9D%E5%AE%9D%E5%8F%A3%E8%85%94%E6%8A%A4%E7%90%86.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 113,
-								"tree": {
-									"id": 113,
-									"desc": "香蕉宝宝",
-									"desc2": "BABY BANANA",
-									"level": null,
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 43,
-								"tree": {
-									"id": 43,
-									"desc": "狮王",
-									"desc2": "Lion",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%B1%85%E5%AE%B6%E6%97%A5%E7%94%A8%2F%E7%8B%AE%E7%8E%8B.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 49,
-								"tree": {
-									"id": 49,
-									"desc": "贝亲",
-									"desc2": "Pigeon",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E8%B4%9D%E4%BA%B2.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							}
-						]
-					}
-				},
-				{
-					"id": 13,
-					"tree": {
-						"id": 13,
-						"desc": "宝宝玩具",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E5%AE%9D%E5%AE%9D%E7%8E%A9%E5%85%B7.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 29,
-								"tree": {
-									"id": 29,
-									"desc": "麦肯齐",
-									"desc2": "munchkin",
-									"level": null,
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2FMunchkin.jpg",
-									"popular": 29,
-									"nodes": null
-								}
-							}
-						]
-					}
-				},
-				{
-					"id": 15,
-					"tree": {
-						"id": 15,
-						"desc": "产后哺乳",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E4%BA%A7%E5%90%8E%E5%93%BA%E4%B9%B3.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 82,
-								"tree": {
-									"id": 82,
-									"desc": "地球妈妈",
-									"desc2": "Earth Mama",
-									"level": null,
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 30,
-								"tree": {
-									"id": 30,
-									"desc": "",
-									"desc2": "Lansinoh",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2Flansionoh.jpg",
-									"popular": 30,
-									"nodes": null
-								}
-							}
-						]
-					}
-				}
-			]
-		}
-	},
-	{
-		"id": 5,
-		"tree": {
-			"id": 5,
-			"desc": "护肤美体",
-			"desc2": null,
-			"level": "level1",
-			"logo": null,
-			"popular": null,
-			"nodes": [
-				{
-					"id": 17,
-					"tree": {
-						"id": 17,
-						"desc": "护肤美肌",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E8%82%8C.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 37,
-								"tree": {
-									"id": 37,
-									"desc": "",
-									"desc2": "Swisse",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2Fswisse-1.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 64,
-								"tree": {
-									"id": 64,
-									"desc": "花王碧柔",
-									"desc2": "Biore",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 43,
-								"tree": {
-									"id": 43,
-									"desc": "狮王",
-									"desc2": "Lion",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%B1%85%E5%AE%B6%E6%97%A5%E7%94%A8%2F%E7%8B%AE%E7%8E%8B.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 58,
-								"tree": {
-									"id": 58,
-									"desc": "",
-									"desc2": "UNIMAT",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2FUNIMAT.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 67,
-								"tree": {
-									"id": 67,
-									"desc": "资生堂",
-									"desc2": "Shiseido",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 148,
-								"tree": {
-									"id": 148,
-									"desc": null,
-									"desc2": "LG",
-									"level": "level3",
-									"logo": null,
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 36,
-								"tree": {
-									"id": 36,
-									"desc": "澳佳宝",
-									"desc2": "BLACKMORES",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2FBlackmores-1.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 69,
-								"tree": {
-									"id": 69,
-									"desc": "北海道",
-									"desc2": "Loshi",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 123,
-								"tree": {
-									"id": 123,
-									"desc": null,
-									"desc2": "G&M",
-									"level": "level3",
-									"logo": null,
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 72,
-								"tree": {
-									"id": 72,
-									"desc": "",
-									"desc2": "Lucas",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 91,
-								"tree": {
-									"id": 91,
-									"desc": "贺本清",
-									"desc2": "Herbacin",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 87,
-								"tree": {
-									"id": 87,
-									"desc": "贝德玛",
-									"desc2": "BIODERMA",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 121,
-								"tree": {
-									"id": 121,
-									"desc": "伊思",
-									"desc2": "t'S SKIN",
-									"level": "level3",
-									"logo": "http://hqxz.oss-cn-beijing.aliyuncs.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2F%E4%BC%8A%E6%80%9D.jpg",
-									"popular": 121,
-									"nodes": null
-								}
-							},
-							{
-								"id": 46,
-								"tree": {
-									"id": 46,
-									"desc": "宝丽",
-									"desc2": "Pola",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2Fpola.jpg",
-									"popular": 46,
-									"nodes": null
-								}
-							},
-							{
-								"id": 96,
-								"tree": {
-									"id": 96,
-									"desc": "",
-									"desc2": "SNP",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2FSNP.jpg",
-									"popular": 96,
-									"nodes": null
-								}
-							},
-							{
-								"id": 98,
-								"tree": {
-									"id": 98,
-									"desc": "丽得姿",
-									"desc2": "LEADERS",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2F%E4%B8%BD%E5%BE%97%E5%A7%BF.jpg",
-									"popular": 98,
-									"nodes": null
-								}
-							},
-							{
-								"id": 133,
-								"tree": {
-									"id": 133,
-									"desc": "悦诗风吟",
-									"desc2": "innisfree",
-									"level": "level3",
-									"logo": "http://hqxz.oss-cn-beijing.aliyuncs.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2Finnisfree.jpg",
-									"popular": 133,
-									"nodes": null
-								}
-							},
-							{
-								"id": 146,
-								"tree": {
-									"id": 146,
-									"desc": null,
-									"desc2": "AHC",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2FAHC.jpg",
-									"popular": 146,
-									"nodes": null
-								}
-							}
-						]
-					}
-				},
-				{
-					"id": 18,
-					"tree": {
-						"id": 18,
-						"desc": "彩妆隔离",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2F%E5%BD%A9%E5%A6%86.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 31,
-								"tree": {
-									"id": 31,
-									"desc": "加州宝宝",
-									"desc2": "CALIFORNIA BABY",
-									"level": null,
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E5%8A%A0%E5%B7%9E%E5%AE%9D%E5%AE%9D.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 87,
-								"tree": {
-									"id": 87,
-									"desc": "贝德玛",
-									"desc2": "BIODERMA",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 67,
-								"tree": {
-									"id": 67,
-									"desc": "资生堂",
-									"desc2": "Shiseido",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 49,
-								"tree": {
-									"id": 49,
-									"desc": "贝亲",
-									"desc2": "Pigeon",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E8%B4%9D%E4%BA%B2.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 66,
-								"tree": {
-									"id": 66,
-									"desc": "嘉娜宝",
-									"desc2": "Kanebo",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2F%E5%98%89%E5%A8%9C%E5%AE%9D.jpg",
-									"popular": 66,
-									"nodes": null
-								}
-							},
-							{
-								"id": 46,
-								"tree": {
-									"id": 46,
-									"desc": "宝丽",
-									"desc2": "Pola",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2Fpola.jpg",
-									"popular": 46,
-									"nodes": null
-								}
-							}
-						]
-					}
-				}
-			]
-		}
-	},
-	{
-		"id": 6,
-		"tree": {
-			"id": 6,
-			"desc": "营养保健",
-			"desc2": null,
-			"level": "level1",
-			"logo": null,
-			"popular": null,
-			"nodes": [
-				{
-					"id": 19,
-					"tree": {
-						"id": 19,
-						"desc": "女性保养",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2F%E5%A5%B3%E6%80%A7%E4%BF%9D%E5%85%BB.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 35,
-								"tree": {
-									"id": 35,
-									"desc": "",
-									"desc2": "Bio Island",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2FBio-Island-1.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 36,
-								"tree": {
-									"id": 36,
-									"desc": "澳佳宝",
-									"desc2": "BLACKMORES",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2FBlackmores-1.jpg",
-									"popular": 36,
-									"nodes": null
-								}
-							},
-							{
-								"id": 37,
-								"tree": {
-									"id": 37,
-									"desc": "",
-									"desc2": "Swisse",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2Fswisse-1.jpg",
-									"popular": 37,
-									"nodes": null
-								}
-							},
-							{
-								"id": 38,
-								"tree": {
-									"id": 38,
-									"desc": "",
-									"desc2": "red seal",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2FRed-Seal-1.jpg",
-									"popular": 38,
-									"nodes": null
-								}
-							},
-							{
-								"id": 76,
-								"tree": {
-									"id": 76,
-									"desc": "健安喜",
-									"desc2": "GNC",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2FGNC.jpg",
-									"popular": 76,
-									"nodes": null
-								}
-							},
-							{
-								"id": 55,
-								"tree": {
-									"id": 55,
-									"desc": "铁元",
-									"desc2": "Salus",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2Fsalus.jpg",
-									"popular": 55,
-									"nodes": null
-								}
-							}
-						]
-					}
-				},
-				{
-					"id": 20,
-					"tree": {
-						"id": 20,
-						"desc": "男性健康",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2F%E7%94%B7%E6%80%A7%E5%81%A5%E5%BA%B7.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 37,
-								"tree": {
-									"id": 37,
-									"desc": "",
-									"desc2": "Swisse",
-									"level": null,
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2Fswisse-1.jpg",
-									"popular": 37,
-									"nodes": null
-								}
-							}
-						]
-					}
-				},
-				{
-					"id": 21,
-					"tree": {
-						"id": 21,
-						"desc": "中老年健康",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2F%E4%B8%AD%E8%80%81%E5%B9%B4%E5%81%A5%E5%BA%B7.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 36,
-								"tree": {
-									"id": 36,
-									"desc": "澳佳宝",
-									"desc2": "BLACKMORES",
-									"level": null,
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2FBlackmores-1.jpg",
-									"popular": 36,
-									"nodes": null
-								}
-							}
-						]
-					}
-				},
-				{
-					"id": 22,
-					"tree": {
-						"id": 22,
-						"desc": "通用营养",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2F%E9%80%9A%E7%94%A8%E8%90%A5%E5%85%BB.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 37,
-								"tree": {
-									"id": 37,
-									"desc": "",
-									"desc2": "Swisse",
-									"level": null,
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2Fswisse-1.jpg",
-									"popular": 37,
-									"nodes": null
-								}
-							},
-							{
-								"id": 40,
-								"tree": {
-									"id": 40,
-									"desc": "德国双心",
-									"desc2": "Doppel herz",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2FDoppelherz.jpg",
-									"popular": 40,
-									"nodes": null
-								}
-							},
-							{
-								"id": 76,
-								"tree": {
-									"id": 76,
-									"desc": "健安喜",
-									"desc2": "GNC",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2FGNC.jpg",
-									"popular": 76,
-									"nodes": null
-								}
-							}
-						]
-					}
-				}
-			]
-		}
-	},
-	{
-		"id": 7,
-		"tree": {
-			"id": 7,
-			"desc": "居家日用",
-			"desc2": null,
-			"level": "level1",
-			"logo": null,
-			"popular": null,
-			"nodes": [
-				{
-					"id": 25,
-					"tree": {
-						"id": 25,
-						"desc": "护发沐浴",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E5%B1%85%E5%AE%B6%E6%97%A5%E7%94%A8%2F%E6%8A%A4%E5%8F%91%E6%B2%90%E6%B5%B4.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 148,
-								"tree": {
-									"id": 148,
-									"desc": null,
-									"desc2": "LG",
-									"level": "level3",
-									"logo": null,
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 112,
-								"tree": {
-									"id": 112,
-									"desc": "箭牌",
-									"desc2": "Mane 'n Tail",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%B1%85%E5%AE%B6%E6%97%A5%E7%94%A8%2F%E7%AE%AD%E7%89%8C-1.jpg",
-									"popular": 112,
-									"nodes": null
-								}
-							}
-						]
-					}
-				},
-				{
-					"id": 26,
-					"tree": {
-						"id": 26,
-						"desc": "口腔健康",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E5%B1%85%E5%AE%B6%E6%97%A5%E7%94%A8%2F%E5%8F%A3%E8%85%94%E5%81%A5%E5%BA%B7.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 38,
-								"tree": {
-									"id": 38,
-									"desc": "",
-									"desc2": "red seal",
-									"level": null,
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2FRed-Seal-1.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 43,
-								"tree": {
-									"id": 43,
-									"desc": "狮王",
-									"desc2": "Lion",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%B1%85%E5%AE%B6%E6%97%A5%E7%94%A8%2F%E7%8B%AE%E7%8E%8B.jpg",
-									"popular": 43,
-									"nodes": null
-								}
-							}
-						]
-					}
-				},
-				{
-					"id": 27,
-					"tree": {
-						"id": 27,
-						"desc": "家居清洁",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E5%B1%85%E5%AE%B6%E6%97%A5%E7%94%A8%2F%E5%B1%85%E5%AE%B6%E6%B8%85%E6%B4%81.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 70,
-								"tree": {
-									"id": 70,
-									"desc": "",
-									"desc2": "Febreze",
-									"level": null,
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 58,
-								"tree": {
-									"id": 58,
-									"desc": "",
-									"desc2": "UNIMAT",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2FUNIMAT.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 56,
-								"tree": {
-									"id": 56,
-									"desc": "",
-									"desc2": "goat soap",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%B1%85%E5%AE%B6%E6%97%A5%E7%94%A8%2Fgoat-soap.jpg",
-									"popular": 56,
-									"nodes": null
-								}
-							}
-						]
-					}
-				},
-				{
-					"id": 24,
-					"tree": {
-						"id": 24,
-						"desc": "日常护理",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E5%B1%85%E5%AE%B6%E6%97%A5%E7%94%A8%2F%E5%8D%AB%E7%94%9F%E5%B7%BE.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 64,
-								"tree": {
-									"id": 64,
-									"desc": "花王碧柔",
-									"desc2": "Biore",
-									"level": null,
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 58,
-								"tree": {
-									"id": 58,
-									"desc": "",
-									"desc2": "UNIMAT",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2FUNIMAT.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 16,
-								"tree": {
-									"id": 16,
-									"desc": "花王",
-									"desc2": "Merries",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E7%BA%B8%E5%B0%BF%E8%A3%A4%2F%E8%8A%B1%E7%8E%8B.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 147,
-								"tree": {
-									"id": 147,
-									"desc": "参天",
-									"desc2": "SANTEN",
-									"level": "level3",
-									"logo": null,
-									"popular": null,
-									"nodes": null
-								}
-							}
-						]
-					}
-				}
-			]
-		}
-	},
-	{
-		"id": 8,
-		"tree": {
-			"id": 8,
-			"desc": "进口美食",
-			"desc2": null,
-			"level": "level1",
-			"logo": null,
-			"popular": null,
-			"nodes": [
-				{
-					"id": 28,
-					"tree": {
-						"id": 28,
-						"desc": "进口零食",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB%2F%E8%BF%9B%E5%8F%A3%E7%BE%8E%E9%A3%9F%2F%E8%BF%9B%E5%8F%A3%E9%9B%B6%E9%A3%9F.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 119,
-								"tree": {
-									"id": 119,
-									"desc": "德运",
-									"desc2": "DEVONDALE",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 41,
-								"tree": {
-									"id": 41,
-									"desc": "新西兰康维他",
-									"desc2": "COMVITA",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2FCOMVITA.jpg",
-									"popular": 41,
-									"nodes": null
-								}
-							}
-						]
-					}
-				}
-			]
-		}
-	},
-	{
-		"id": 9,
-		"tree": {
-			"id": 9,
-			"desc": "轻奢女装",
-			"desc2": null,
-			"level": "level1",
-			"logo": null,
-			"popular": null,
-			"nodes": [
-				{
-					"id": 91,
-					"tree": {
-						"id": 91,
-						"desc": "轻奢女装",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB/%E6%9C%8D%E9%A5%B0%E7%AE%B1%E5%8C%85/%E6%BD%AE%E6%B5%81%E5%A5%B3%E8%A3%85.png",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 160,
-								"tree": {
-									"id": 160,
-									"desc": null,
-									"desc2": "DVF",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo/%E6%9C%8D%E9%A5%B0%E7%AE%B1%E5%8C%85/DVF-logo.png",
-									"popular": 160,
-									"nodes": null
-								}
-							}
-						]
-					}
-				}
-			]
-		}
-	},
-	{
-		"id": 10,
-		"tree": {
-			"id": 10,
-			"desc": "秒杀特惠清仓",
-			"desc2": null,
-			"level": "level1",
-			"logo": null,
-			"popular": null,
-			"nodes": [
-				{
-					"id": 101,
-					"tree": {
-						"id": 101,
-						"desc": "秒杀",
-						"desc2": null,
-						"level": "level2",
-						"logo": null,
-						"popular": null,
-						"nodes": [
-							{
-								"id": 21,
-								"tree": {
-									"id": 21,
-									"desc": "嘉宝",
-									"desc2": "Gerber",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%BE%85%E9%A3%9F%E8%90%A5%E5%85%BB%2F%E5%98%89%E5%AE%9D.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 148,
-								"tree": {
-									"id": 148,
-									"desc": null,
-									"desc2": "LG",
-									"level": "level3",
-									"logo": null,
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 81,
-								"tree": {
-									"id": 81,
-									"desc": "芙丽芳丝",
-									"desc2": "freeplus",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 17,
-								"tree": {
-									"id": 17,
-									"desc": "大王",
-									"desc2": "Goon",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E7%BA%B8%E5%B0%BF%E8%A3%A4%2F%E5%A4%A7%E7%8E%8B.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 29,
-								"tree": {
-									"id": 29,
-									"desc": "麦肯齐",
-									"desc2": "munchkin",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2FMunchkin.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 27,
-								"tree": {
-									"id": 27,
-									"desc": "膳魔师",
-									"desc2": "THERMOS",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2FTHERMOS.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 16,
-								"tree": {
-									"id": 16,
-									"desc": "花王",
-									"desc2": "Merries",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E7%BA%B8%E5%B0%BF%E8%A3%A4%2F%E8%8A%B1%E7%8E%8B.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 103,
-								"tree": {
-									"id": 103,
-									"desc": "吕",
-									"desc2": "",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%B1%85%E5%AE%B6%E6%97%A5%E7%94%A8%2F%E5%90%95.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 42,
-								"tree": {
-									"id": 42,
-									"desc": "",
-									"desc2": "Reveur",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%B1%85%E5%AE%B6%E6%97%A5%E7%94%A8%2Freveur.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 46,
-								"tree": {
-									"id": 46,
-									"desc": "宝丽",
-									"desc2": "Pola",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2Fpola.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 73,
-								"tree": {
-									"id": 73,
-									"desc": "佳思敏",
-									"desc2": "Nature's Way",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2F%E4%BD%B3%E6%80%9D%E6%95%8F.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 18,
-								"tree": {
-									"id": 18,
-									"desc": "尤妮佳",
-									"desc2": "Moony",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E7%BA%B8%E5%B0%BF%E8%A3%A4%2F%E5%B0%A4%E4%BD%B3%E5%A6%AE.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 55,
-								"tree": {
-									"id": 55,
-									"desc": "铁元",
-									"desc2": "Salus",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2Fsalus.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 49,
-								"tree": {
-									"id": 49,
-									"desc": "贝亲",
-									"desc2": "Pigeon",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E8%B4%9D%E4%BA%B2.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 106,
-								"tree": {
-									"id": 106,
-									"desc": "",
-									"desc2": "Sudocrem",
-									"level": "level3",
-									"logo": "",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 23,
-								"tree": {
-									"id": 23,
-									"desc": "贝塔",
-									"desc2": "Betta",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E8%B4%9D%E5%A1%94.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 97,
-								"tree": {
-									"id": 97,
-									"desc": "肌肤之钥",
-									"desc2": "CPB",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2FCPB-%E8%82%8C%E8%82%A4%E4%B9%8B%E9%92%A5.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							}
-						]
-					}
-				},
-				{
-					"id": 102,
-					"tree": {
-						"id": 102,
-						"desc": "特惠清仓",
-						"desc2": null,
-						"level": "level2",
-						"logo": null,
-						"popular": null,
-						"nodes": [
-							{
-								"id": 37,
-								"tree": {
-									"id": 37,
-									"desc": "",
-									"desc2": "Swisse",
-									"level": null,
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2Fswisse-1.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 133,
-								"tree": {
-									"id": 133,
-									"desc": "悦诗风吟",
-									"desc2": "innisfree",
-									"level": "level3",
-									"logo": "http://hqxz.oss-cn-beijing.aliyuncs.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2Finnisfree.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 9,
-								"tree": {
-									"id": 9,
-									"desc": "德国喜宝有机",
-									"desc2": "HiPP",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89%2F%E5%96%9C%E5%AE%9D.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 22,
-								"tree": {
-									"id": 22,
-									"desc": "美林",
-									"desc2": "Mellin",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%BE%85%E9%A3%9F%E8%90%A5%E5%85%BB%2F%E7%BE%8E%E6%9E%97.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 116,
-								"tree": {
-									"id": 116,
-									"desc": "简尼",
-									"desc2": "Jensens",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2FJensen's.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 36,
-								"tree": {
-									"id": 36,
-									"desc": "澳佳宝",
-									"desc2": "BLACKMORES",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2FBlackmores-1.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 76,
-								"tree": {
-									"id": 76,
-									"desc": "健安喜",
-									"desc2": "GNC",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2FGNC.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 54,
-								"tree": {
-									"id": 54,
-									"desc": "",
-									"desc2": "Health Care",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5%2FHealthy-Care.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 161,
-								"tree": {
-									"id": 161,
-									"desc": "爱他美白金",
-									"desc2": "Aptamil pro",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo/%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89/%E7%99%BD%E9%87%91%E5%A5%B6%E7%B2%89-1.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							},
-							{
-								"id": 135,
-								"tree": {
-									"id": 135,
-									"desc": "雪花秀",
-									"desc2": "Sulwhasoo",
-									"level": "level3",
-									"logo": "http://hqxz.oss-cn-beijing.aliyuncs.com/%E5%93%81%E7%89%8Clogo%2F%E6%8A%A4%E8%82%A4%E7%BE%8E%E4%BD%93%2F%E9%9B%AA%E8%8A%B1%E7%A7%80.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							}
-						]
-					}
-				}
-			]
-		}
-	},
-	{
-		"id": 11,
-		"tree": {
-			"id": 11,
-			"desc": "时尚箱包",
-			"desc2": null,
-			"level": "level1",
-			"logo": null,
-			"popular": null,
-			"nodes": [
-				{
-					"id": 111,
-					"tree": {
-						"id": 111,
-						"desc": "时尚箱包",
-						"desc2": null,
-						"level": "level2",
-						"logo": "http://image.huanqiuxiaozhen.com/%E7%B2%BE%E9%80%89%E5%88%86%E7%B1%BB/%E6%9C%8D%E9%A5%B0%E7%AE%B1%E5%8C%85/%E7%AE%B1%E5%8C%85.jpg",
-						"popular": null,
-						"nodes": [
-							{
-								"id": 167,
-								"tree": {
-									"id": 167,
-									"desc": "施华洛世奇",
-									"desc2": "SWAROVSKI",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo/%E6%9C%8D%E9%A5%B0%E7%AE%B1%E5%8C%85/%E6%96%BD%E5%8D%8E%E6%B4%9B%E4%B8%96%E5%A5%87logo.jpeg",
-									"popular": 167,
-									"nodes": null
-								}
-							}
-						]
-					}
-				}
-			]
-		}
-	},
-	{
-		"id": 12,
-		"tree": {
-			"id": 12,
-			"desc": "专场大促",
-			"desc2": null,
-			"level": "level1",
-			"logo": null,
-			"popular": null,
-			"nodes": [
-				{
-					"id": 121,
-					"tree": {
-						"id": 121,
-						"desc": "原产国奶粉专场",
-						"desc2": null,
-						"level": "level2",
-						"logo": null,
-						"popular": null,
-						"nodes": [
-							{
-								"id": 50,
-								"tree": {
-									"id": 50,
-									"desc": "和光堂",
-									"desc2": "WaKoDo",
-									"level": "level3",
-									"logo": "http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA%2F%E5%85%89%E5%90%88%E5%A0%82.jpg",
-									"popular": null,
-									"nodes": null
-								}
-							}
-						]
-					}
-				}
-			]
-		}
-	}
-]
+	]
+}
