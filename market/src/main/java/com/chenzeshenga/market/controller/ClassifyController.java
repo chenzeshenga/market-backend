@@ -21,8 +21,7 @@ public class ClassifyController {
 		c1.setDesc("德国喜宝有机");
 		c1.setDesc2("HiPP");
 		c1.setLevel("level3");
-		c1.setLogo(
-				"http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89%2F%E5%96%9C%E5%AE%9D.jpg");
+		c1.setLogo("https://www.chenzeshenga.com/wemall/images?filename=1.jpg");
 		c1.setPopular(null);
 		c1.setNodes(null);
 
@@ -63,7 +62,7 @@ public class ClassifyController {
 		Node n4 = new Node();
 		n4.setId(1);
 		n4.setTree(c3);
-		
+
 		Node n5 = new Node();
 		n5.setId(2);
 		Node n6 = new Node();

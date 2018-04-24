@@ -25,8 +25,8 @@ public class VenueController {
 		v1.setId(25);
 		v1.setName("宝宝奶粉");
 		v1.setSlogan("");
-		v1.setSmallpic("http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86%E5%9B%BE/2017_5_16_1494917892270");
-		v1.setBigpic("http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86banner/2017_5_22_1495442738612");
+		v1.setSmallpic("https://www.chenzeshenga.com/wemall/images?filename=6.jpg");
+		v1.setBigpic("https://www.chenzeshenga.com/wemall/images?filename=7.jpg");
 		v1.setTypeid(1);
 		v1.setRid(13);
 		v1.setParentdesc("宝宝奶粉");
@@ -93,15 +93,14 @@ public class VenueController {
 		b.setId(157);
 		b.setEnglishname("a2 PLATINUM");
 		b.setChinesename(null);
-		b.setLog("http://image.huanqiuxiaozhen.com/%E5%93%81%E7%89%8Clogo%2F%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89%2Fa2.jpg");
+		b.setLog("https://www.chenzeshenga.com/wemall/images?filename=8.jpg");
 		b.setBrief("新西兰高端纯天然奶粉");
 		b.setBranddesc(null);
-		b.setPic(
-				"http://image.huanqiuxiaozhen.com/%E4%BA%BA%E6%B0%94%E5%93%81%E7%89%8C%E5%9B%BE%2F%E5%AE%9D%E5%AE%9D%E5%A5%B6%E7%B2%89%2Fa2-1.jpg\\n");
+		b.setPic("https://www.chenzeshenga.com/wemall/images?filename=9.jpg");
 		b.setOwnedland(12);
 		b.setCountry(null);
 		b.setVid(25);
-		b.setBigpic("http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86banner/2017_5_22_1495442738612");
+		b.setBigpic("https://www.chenzeshenga.com/wemall/images?filename=7.jpg");
 		b.setTypeid(1);
 		b.setMinprice(293.0);
 		result.add(b);
