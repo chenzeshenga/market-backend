@@ -3,6 +3,9 @@ package com.chenzeshenga.market;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author chenzeshenga
+ **/
 @SpringBootApplication
 public class Market {
 
